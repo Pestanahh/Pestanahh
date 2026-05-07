@@ -13,6 +13,6 @@ Open to connecting with developers and professionals in the web development and 
 ## 🧰 Tecnologies
 
 - **Backend:** Java & Spring Boot, PHP, SQL
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** JavaScript, CSS
 
 📫 Contacto: linkedin.com/in/andrespestanah / andrespestanah@gmail.com 
