@@ -1,18 +1,31 @@
-# Andrés Pestana Hidalgo 👋
- 
-💻 Junior Web Developer, currently finalising my training while gaining hands-on experience in a professional environment, contributing to backend development and software maintenance projects using Spring Boot, SQL databases and MongoDB.
+# Hi, I'm Andrés 👋
 
-I focus on building structured and maintainable backend applications, with a strong emphasis on clean code and best practices. I also have experience with PHP, JavaScript, MySQL, HTML and CSS.
+**Junior Backend Developer** (Java · Spring Boot) based in Murcia, Spain.
+DAW graduate, with a backend internship at NTT DATA and a personal microservices project. I'm looking for my first developer role (on-site/hybrid in Murcia, or remote).
 
-My work involves database design, backend logic and integration with frontend systems, following an organised and methodical approach.
+## What I work with
 
-I value understanding how technologies work under the hood and continuously improving through hands-on experience in real projects.
+- **Backend:** Java 17, Spring Boot (REST APIs, microservices, global exception handling), JPA/Hibernate, Maven
+- **Architecture & code quality:** Hexagonal architecture (Ports & Adapters), SOLID, MapStruct, Lombok
+- **Database:** PostgreSQL
+- **Testing:** JUnit, Spring Boot Test
+- **API documentation:** OpenAPI/Swagger
+- **Web basics:** PHP, JavaScript, HTML, CSS
+- **Tools:** Git, IntelliJ IDEA, Visual Studio Code, DBeaver
+- **Currently learning:** Apache Kafka, Kubernetes
 
-Open to connecting with developers and professionals in the web development and software industry.
+## Featured project
 
-## 🧰 Tecnologies
+**[Gamedev](https://github.com/Pestanahh/gamedev)**: three Spring Boot microservices (Characters, Equipment and Loadout). Characters and Equipment expose data persisted in PostgreSQL, and Loadout acts as an integrator that consumes both to build a character's final stats. Built with hexagonal architecture, documented with OpenAPI and a full README to run it locally.
 
-- **Backend:** Java & Spring Boot, PHP, SQL
-- **Frontend:** JavaScript, CSS
+## Experience
 
-📫 Contacto: linkedin.com/in/andrespestanah / andrespestanah@gmail.com 
+**Backend developer intern, NTT DATA:** worked on a Spring Boot / microservices project in the industrial sector.
+
+## Languages
+
+Spanish (native) · English (C1)
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/andrespestanah/) · Open to talking with developers and recruiters.
