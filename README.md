@@ -10,7 +10,7 @@ Junior Backend Developer (Java · Spring Boot) based in Murcia, Spain. DAW gradu
 - **Testing:** JUnit 5, Mockito, Spring Boot Test
 - **API documentation:** OpenAPI/Swagger
 - **Web basics:** PHP, JavaScript, HTML, CSS
-- **Tools:** Git, Postman, IntelliJ IDEA, Visual Studio Code, DBeaver
+- **Tools:** Git, Postman, IntelliJ IDEA, Visual Studio Code, DBeaver, Claude Code (AI-assisted development)
 - **Currently learning:** Kubernetes, Angular
 
 ## Featured project
