@@ -11,7 +11,7 @@ Junior Backend Developer (Java · Spring Boot) based in Murcia, Spain. DAW gradu
 - **API documentation:** OpenAPI/Swagger
 - **Web basics:** PHP, JavaScript, HTML, CSS
 - **Tools:** Git, Postman, IntelliJ IDEA, Visual Studio Code, DBeaver
-- **Currently learning:** Kubernetes
+- **Currently learning:** Kubernetes, Angular
 
 ## Featured project
 
