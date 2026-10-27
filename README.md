@@ -1,6 +1,6 @@
 ## Hi, I'm Andrés 👋
 
-Junior Backend Developer (Java · Spring Boot) based in Murcia, Spain. DAW graduate, with a backend internship at NTT DATA and a personal microservices project. Before moving into software, I spent 8 years in international real estate, working daily in English with clients from the UK, the Netherlands and Scandinavia. I'm looking for my first developer role (on-site/hybrid in Murcia, or remote), available immediately.
+Backend Developer (Java 21 · Spring Boot) based in Murcia, Spain. I build REST APIs and microservices with hexagonal architecture, API First (OpenAPI), JPA/Hibernate on PostgreSQL, and unit tests with JUnit 5 and Mockito. Backend internship at NTT DATA, plus a personal microservices project: gamedev. Before moving into software, I spent 8 years in international real estate, working daily in English with clients from the UK, the Netherlands and Scandinavia. Available immediately · Murcia (on-site/hybrid) or remote.
 
 ## What I work with
 
