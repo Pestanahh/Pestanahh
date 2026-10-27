@@ -4,14 +4,14 @@ Backend Developer (Java 21 · Spring Boot) based in Murcia, Spain. I build REST 
 
 ## What I work with
 
-- **Backend:** Java 17, Spring Boot (REST APIs, microservices, global exception handling), JPA/Hibernate, Maven
+- **Backend:** Java 21, Spring Boot (REST APIs, microservices, global exception handling), JPA/Hibernate, Maven
 - **Architecture & code quality:** Hexagonal architecture (Ports & Adapters), SOLID, MapStruct, Lombok
 - **Database:** PostgreSQL
 - **Testing:** JUnit 5, Mockito, Spring Boot Test
 - **API documentation:** OpenAPI/Swagger
 - **Web basics:** PHP, JavaScript, HTML, CSS
 - **Tools:** Git, Docker / Docker Compose, Postman, IntelliJ IDEA, Visual Studio Code, DBeaver, Claude Code (AI-assisted development)
-- **Currently learning:** Kubernetes, Angular
+- **Currently learning:** Kubernetes
 
 ## Featured project
 
